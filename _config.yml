@@ -11,11 +11,6 @@ description: >
   results) and in your feed.xml site description.
 
 
-baseurl: ""
-url: johe.dev
-twitter_username: he_johe
-github_username: johe96
-
 # Build settings
 
 theme: minima
