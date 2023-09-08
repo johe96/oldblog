@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-this is my homepage
+just some thoughts
