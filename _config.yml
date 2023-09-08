@@ -1,7 +1,4 @@
-## theme: minima
-##theme: minima
-plugins: jekyll-include-cache
-theme: minimal-mistakes-jekyll
+theme: minima
 title: johe
 author: Jonny He
 description: my thoughts in one place
