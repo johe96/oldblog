@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: blog
 ---
 
-just some thoughts
+Thinking bout stuff
