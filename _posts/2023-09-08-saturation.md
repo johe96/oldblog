@@ -5,7 +5,6 @@ date: 2023-09-08
 author: Jonny He
 categories: 
   - audio
-  - music
 ---
 
 ## Saturation Crash Course
