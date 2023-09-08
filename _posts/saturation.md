@@ -6,7 +6,7 @@ author: Jonny He
 
 ## Saturation Crash Course
 
-Saturation is one of the most important topibs in music production. Saturation along with EQ and compression make up the most important tools we have for shaping sounds. Saturation adds warmth and character to a track and can make a track more professional sounding (allegedly). [^1]
+Saturation is one of the most important topics in music production. Saturation along with EQ and compression make up the most important tools we have for shaping sounds. Saturation adds warmth and character to a track and can make a track more professional sounding (allegedly). [^1]
 
 The basics of saturation and harmonics will lay the groundwork for more advanced topics in [[distortion]].
 
