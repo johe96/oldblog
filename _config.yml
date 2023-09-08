@@ -1,7 +1,5 @@
 title: johe
-author: 
-  name: Jonny He
-  email: jonnyhe96@gmail.com
+author: Jonny He
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
