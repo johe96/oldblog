@@ -40,4 +40,6 @@ Another way to describe it is that Saturation adds overtones as in a direct mult
 
 [Source: MainStage User Guide](https://support.apple.com/guide/mainstage/tones-overtones-harmonics-and-partials-lgsife4183a5/mac#:~:text=Non%2Dfundamental%20tones%20that%20are,to%20as%20the%20first%20harmonic.)
 
-Recource: https://musictech.com/tutorials/10mm-no212-harmonics-timbre-recording/
+### Resources
+
+[harmonics and timbre](https://musictech.com/tutorials/10mm-no212-harmonics-timbre-recording/)
